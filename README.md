@@ -9,7 +9,7 @@
 A simple URL shortener web application built with **Python** and **Flask**.  
 Convert long, hard-to-share URLs into short, clean links instantly.
 
-> 🏢 Built as part of the **CodeAlpha Backend Development Internship**
+> 🏢 Built as part of the **Backend Development**
 
 ---
 
@@ -115,7 +115,7 @@ http://localhost:5000
 
 **Muhammad Ibrahim**  
 BS Computer Science — Final Year Student  
-CodeAlpha Backend Development Internship
+self learning of backend development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ibrahim-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ibrahim-o2)
 
