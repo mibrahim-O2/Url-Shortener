@@ -1,30 +1,32 @@
-# ✂️ URL Shortener
-
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.x-black?logo=flask)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue?logo=sqlite)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
-![Internship](https://img.shields.io/badge/CodeAlpha-Internship-orange)
+</br>
 
+# URL Shortener
 A simple URL shortener web application built with **Python** and **Flask**.  
 Convert long, hard-to-share URLs into short, clean links instantly.
+> Built as part of the **Backend Development**
 
-> 🏢 Built as part of the **Backend Development**
-
----
-
-## 🚀 Features
-
-- 🔗 Paste any long URL and get a short link instantly
-- 🔀 Click the short link to be redirected to the original URL
-- ✅ Input validation — rejects empty or malformed URLs
-- ❌ Friendly 404 error page for invalid short codes
-- 🎨 Clean, responsive UI built with Bootstrap 5
-- 🗄️ Lightweight SQLite database — no setup required
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## Features
+
+- Paste any long URL and get a short link instantly
+- Click the short link to be redirected to the original URL
+- Input validation — rejects empty or malformed URLs
+- Friendly 404 error page for invalid short codes
+- Clean, responsive UI built with Bootstrap 5
+- Lightweight SQLite database — no setup required
+
+---
+
+## Tech Stack
 
 | Technology  | Purpose                            |
 |-------------|------------------------------------|
@@ -36,7 +38,7 @@ Convert long, hard-to-share URLs into short, clean links instantly.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```text
 codealpha-url-shortener/
@@ -57,7 +59,7 @@ codealpha-url-shortener/
 
 ---
 
-## ⚙️ Installation Steps
+## Installation Steps
 
 ### 1. Clone the Repository
 
@@ -81,7 +83,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How To Run
+## How To Run
 
 ```powershell
 python app.py
@@ -95,32 +97,41 @@ http://localhost:5000
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🏠 Home Page — URL Input Form
+### Home Page — URL Input Form
 ![Home Page](https://github.com/mibrahim-O2/codealpha-url-shortener/blob/main/ScreenShoots/screenshot-1-home.png?raw=true)
 
-### ✅ Result Page — Short URL Generated
+### Result Page — Short URL Generated
 ![Result Page](https://github.com/mibrahim-O2/codealpha-url-shortener/blob/main/ScreenShoots/screenshot-2-result.png?raw=true)
 
-### 🔀 Redirect — Browser Goes to Original URL
+### Redirect — Browser Goes to Original URL
 ![Redirect](https://github.com/mibrahim-O2/codealpha-url-shortener/blob/main/ScreenShoots/screenshot-3-redirect.png?raw=true)
 
-### ❌ 404 Page — Invalid Short Code
+### 404 Page — Invalid Short Code
 ![404 Page](https://github.com/mibrahim-O2/codealpha-url-shortener/blob/main/ScreenShoots/screenshot-4-404.png?raw=true)
 
 ---
+<div align="center">
 
-## 👨‍💻 Author
+## Author
+**Muhammad Ibrahim**
+BS Computer Science (Student)
 
-**Muhammad Ibrahim**  
-BS Computer Science — Final Year Student  
-self learning of backend development
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ibrahim-o2)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ibrahim-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ibrahim-o2)
+</div>
 
 ---
+<div align="center">
+    
+## License
 
-## 📄 License
+This project is developed for self learning and educational purposes.
+&copy; 2026 Muhammad Ibrahim. All rights reserved.
 
-This project is open source and available under the [MIT License](LICENSE).
+<div align="center">
+
+Built with Python · Flask · SQLite · Bootstrap 5
+
+</div>
